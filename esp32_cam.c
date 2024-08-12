@@ -12,7 +12,7 @@ const char* password = "12345678";
 // To send Email using Gmail use port 465 (SSL) and SMTP Server smtp.gmail.com
 // You need to create an email app password
 #define emailSenderAccount    "cameramodule95@gmail.com"
-#define emailSenderPassword   "yqmr aqvu pmyo osbn"
+#define emailSenderPassword   "**** **** **** ****"
 #define smtpServer            "smtp.gmail.com"
 #define smtpServerPort        465
 #define emailSubject          "ESP32-CAM Photo Captured"
